@@ -6,7 +6,7 @@ This program executes a search in "duunitori.fi" and saves the search results in
 
 <h2>How to run</h2>
 
-After pulling the repository, run
+Once inside the repository, initiate the Vagrant machine
 > vagrant up
 
 ssh inside the machine
