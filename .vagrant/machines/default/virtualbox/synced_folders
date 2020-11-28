@@ -1,0 +1,1 @@
+{"virtualbox":{"/srv/mount_folder":{"guestpath":"/srv/mount_folder","hostpath":"/Users/jesseheikkinen/Documents/Python/Selenium/DuunitoriSearcher/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jesseheikkinen/Documents/Python/Selenium/DuunitoriSearcher","disabled":false,"__vagrantfile":true}}}
