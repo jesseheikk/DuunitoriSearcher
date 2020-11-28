@@ -6,6 +6,8 @@ This program executes a search in "duunitori.fi" and saves the search results in
 
 <h2>How to run</h2>
 
+*Note that you need to have Vagrant and VirtualBox installed*
+
 Once inside the repository, initiate the Vagrant machine
 > vagrant up
 
