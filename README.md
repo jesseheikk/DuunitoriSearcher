@@ -15,6 +15,6 @@ ssh inside the machine
 > vagrant ssh
 
 Run the app
-> python3 /srv/mount_folder/job_searcher.py
+> python3 /srv/mount_folder/job_search.py
 
 The results will be saved in a file named "search_results.csv"
